@@ -7,3 +7,9 @@ and perform basic insert and select operations.
 npm install
 npm run dev
 
+## Environment
+Create a `.env` file with:
+VITE_SUPABASE_URL=...
+VITE_SUPABASE_ANON_KEY=...
+
+
